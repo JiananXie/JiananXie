@@ -23,9 +23,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 300px;">
     <img src="https://github-readme-stats.vercel.app/api?username=JiananXie&show_icons=true&theme=rose">
+        <img src="https://streak-stats.demolab.com/?user=JiananXie&theme=moltack">
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JiananXie&theme=moltack)](https://git.io/streak-stats)
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JiananXie&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)
