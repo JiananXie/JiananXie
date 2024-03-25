@@ -19,9 +19,8 @@
 
 <div align="center"><span> <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-Jupyter-blue?style=flat-square&logo=jupyter" /> <img src="https://img.shields.io/badge/-Pytorch-green?style=flat-square&logo=pytorch" /> <img src="https://img.shields.io/badge/-Tensorflow-oringe?style=flat-square&logo=tensorflow" /></span></div>
 
-<img src="https://stats.justsong.cn/api/github?id=JiananXie&theme=solarized-light">
+<img src="https://stats.justsong.cn/api/github?id=JiananXie&theme=solarized-light">![JiananXie's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiananXie&layout=compact&hide_border=true&langs_count=10&theme=rose)
 
-![JiananXie's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiananXie&layout=compact&hide_border=true&langs_count=10&theme=rose)
 ![JiananXie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiananXie&show_icons=true&theme=rose)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JiananXie&theme=moltack)](https://git.io/streak-stats)
 
