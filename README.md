@@ -21,7 +21,8 @@
 
 <div align="center"><img src="https://stats.justsong.cn/api/github?id=JiananXie&theme=solarized-light"></div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiananXie&show_icons=true&theme=rose)
+![JiananXie's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiananXie&layout=compact&hide_border=true&langs_count=10&theme=rose)
+![JiananXie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiananXie&show_icons=true&theme=rose)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JiananXie&theme=moltack)](https://git.io/streak-stats)
 
 
