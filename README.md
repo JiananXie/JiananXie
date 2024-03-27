@@ -10,7 +10,7 @@
 👋[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=E2E2AF20&center=true%random=false&width=435&lines=Hi%2C+I'm+JiananXie.+A+CS+newbie.)](https://git.io/typing-svg)👋
 - 🔭 I’m currently working on Transportation mode detection.
 - 🌱 I’m currently learning LLM, DeepLearning...
-- 👯 I will be an intern at LocationMind Inc during 1st April to 30th June.
+- 👯 I will be an intern at LocationMind Inc. during 1st April to 30th June.
 - 🤔 I’m looking for more opportunities to improve my scientific research capabilities
 - 💬 Ask me about anything that you are interested in about me.
 - 📫 How to reach me: 12110714@mail.sustech.edu.cn
