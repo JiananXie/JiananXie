@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning LLM, DeepLearning...
 - 👯 I will be an intern at LocationMind Inc. during 1st April to 30th June.
 - 🤔 I’m looking for more opportunities to improve my scientific research capabilities
-- 💬 Ask me about anything that you are interested in about me.
+- 💬 Ask me anything that you are interested in about me.
 - 📫 How to reach me: 12110714@mail.sustech.edu.cn
 - ⚡ I'm trying hard to develop my github. Stay tuned...
 
