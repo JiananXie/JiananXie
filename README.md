@@ -8,11 +8,11 @@
 </div>
 
 👋[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=E2E2AF20&center=true%random=false&width=435&lines=Hi%2C+I'm+JiananXie.+A+CS+newbie.)](https://git.io/typing-svg)👋
-- 🔭 I’m currently working on Transportation mode detection.
+- 🔭 I’m currently working on Transportation mode identification.
 - 🌱 I’m currently learning LLM, DeepLearning...
 - 👯 <del>I will be an intern at LocationMind Inc. during 1st April to 30th June.</del>
 - 🤔 I’m looking for more opportunities to improve my scientific research capabilities
-- 💬 Ask me anything that you are interested in about me.
+- 💬 Please don't hesitate to ask me anything if you are interested in me.
 - 📫 How to reach me: 12110714@mail.sustech.edu.cn
 - ⚡ I'm trying hard to develop my github. Stay tuned...
 
