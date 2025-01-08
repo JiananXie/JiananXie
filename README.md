@@ -11,22 +11,7 @@
 - 🔭 I’m currently working on RAG. <del>Transportation mode identification.</del>
 - 🌱 I’m currently learning LLM, DeepLearning...
 - 👯 <del>I will be an intern at LocationMind Inc. during 1st April to 30th June.(Failed)</del>
-- 🤔 I’m looking for more opportunities to improve my scientific research capabilities
-- 💬 Please don't hesitate to ask me anything if you are interested in me.
-- 📫 How to reach me: 12110714@mail.sustech.edu.cn
+- 🤔 I’m looking for more research opportunities.
+- 💬 Please don't hesitate to ask me anything interest you.
+- 📫 How to reach me: 12110714@mail.sustech.edu.cn or xjn126516@gamil.com
 - ⚡ I'm trying hard to develop my github. Stay tuned...
-
-
-<div align="center"><span> <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-Jupyter-blue?style=flat-square&logo=jupyter" /> <img src="https://img.shields.io/badge/-Pytorch-green?style=flat-square&logo=pytorch" /> <img src="https://img.shields.io/badge/-Tensorflow-oringe?style=flat-square&logo=tensorflow" /></span></div>
-
-<img src="https://stats.justsong.cn/api/github?id=JiananXie&theme=solarized-light">![JiananXie's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiananXie&layout=compact&hide_border=true&langs_count=10&theme=rose)
-
-<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JiananXie&show_icons=true&theme=rose">
-        <img src="https://streak-stats.demolab.com/?user=JiananXie&theme=moltack">
-</div>
-
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JiananXie&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)
