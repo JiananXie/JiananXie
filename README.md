@@ -3,5 +3,5 @@
 - 👯 <del>I will be an intern at LocationMind Inc. during 1st April to 30th June.(Failed)</del>
 - 🤔 I’m looking for more research opportunities.
 - 💬 Please don't hesitate to ask me anything.
-- 📫 How to reach me: 12110714@mail.sustech.edu.cn or xjn126516@gamil.com
+- 📫 How to reach me: xiejn2025@shanghaitech.edu.cn or 12110714@mail.sustech.edu.cn or xjn126516@gamil.com
 - ⚡ I'm trying hard to develop my github. Stay tuned...
