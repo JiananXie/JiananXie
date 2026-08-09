@@ -1,6 +1,4 @@
-- 🔭 I’m currently working on RAG. <del>Transportation mode identification.</del>
-- 🌱 I’m currently learning LLM, DeepLearning...
-- 👯 <del>I will be an intern at LocationMind Inc. during 1st April to 30th June.(Failed)</del>
+- 🔭 I’m currently working on Agent, Agentic RL, RAG. <del>Transportation mode identification.</del>
 - 🤔 I’m looking for more research opportunities.
 - 💬 Please don't hesitate to ask me anything.
 - 📫 How to reach me: xiejn2025@shanghaitech.edu.cn or 12110714@mail.sustech.edu.cn or xjn126516@gamil.com
