@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Agent, Agentic RL, RAG. <del>Transportation mode identification.</del>
+- 🔭 I’m currently working on Agent, Agentic RL, RAG. My academic homepage: https://jiananxie.github.io.
 - 🤔 I’m looking for more research opportunities.
 - 💬 Please don't hesitate to ask me anything.
 - 📫 How to reach me: xiejn2025@shanghaitech.edu.cn or 12110714@mail.sustech.edu.cn or xjn126516@gamil.com
